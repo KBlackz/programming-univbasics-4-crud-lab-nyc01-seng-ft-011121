@@ -44,6 +44,8 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
+    tom_ford = ["move", "stand", "arrays!"]
+    tom_ford[-1]
   
 end
 
