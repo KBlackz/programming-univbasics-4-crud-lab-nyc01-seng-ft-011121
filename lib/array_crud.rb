@@ -27,8 +27,8 @@ end
 
 
 def remove_element_from_start_of_array(array)
-    time_keep = ["earth", "world", "wow"]
-    time_keep.unshift()
+    left_right = ["up", "down", "wow"]
+    left_right.unshift()
 end
 
 def retrieve_element_from_index(array, index_number)
