@@ -1,12 +1,17 @@
+
 def create_an_empty_array
-  
+  []
 end
 
 def create_an_array
+  cars = ["Gle", "M5", "E63", "RS5"]
   
 end
 
 def add_element_to_end_of_array(array, element)
+ 
+ 
+  cars << "G5"
   
 end
 
