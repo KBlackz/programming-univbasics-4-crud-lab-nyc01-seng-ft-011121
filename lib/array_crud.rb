@@ -50,5 +50,8 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
+    corona_cold = ["run", "duck", "climb"]
+    
+    
 
 end
