@@ -27,7 +27,7 @@ end
 
 
 def remove_element_from_start_of_array(array)
-    left_right = ["up", "down", "wow"]
+    left_right = ["wow", "down", "up"]
     left_right.shift()
 end
 
