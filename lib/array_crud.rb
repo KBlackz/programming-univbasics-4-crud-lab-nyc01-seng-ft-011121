@@ -28,7 +28,7 @@ end
 
 def remove_element_from_start_of_array(array)
     left_right = ["up", "down", "wow"]
-    left_right.unshift()
+    left_right.shift()
 end
 
 def retrieve_element_from_index(array, index_number)
