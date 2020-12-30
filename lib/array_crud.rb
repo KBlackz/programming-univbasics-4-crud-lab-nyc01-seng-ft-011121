@@ -20,8 +20,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  life_live = ["earth", "world", "arrays!"]
-  arrays!_live = life_live.pop
+  life_live = ["earth", "world", "arrays"]
+  arrays_live = life_live.pop
 end
 
 def remove_element_from_start_of_array(array)
