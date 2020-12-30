@@ -21,7 +21,7 @@ end
 
 def remove_element_from_end_of_array(array)
   time_keep = ["earth", "world", "arrays!"]
-  arrays! = time_keep.pop
+  arrays!_keep = time_keep.pop
   
 end
 
