@@ -11,7 +11,6 @@ end
 def add_element_to_end_of_array(array, element)
   more_life = ["time", "long"]
   more_life.push("shark")
-  p more_life
   
 end
 def add_element_to_start_of_array(array, element)
