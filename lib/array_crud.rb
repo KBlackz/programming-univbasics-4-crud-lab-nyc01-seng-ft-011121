@@ -14,13 +14,14 @@ def add_element_to_end_of_array(array, element)
   
 end
 def add_element_to_start_of_array(array, element)
-    life_live = ["earth", "world", "life"]
-    life_live.pop
+    life_live = ["earth", "world"]
+    life_live.unshift("wow")
     
 end
 
 def remove_element_from_end_of_array(array)
-  life_live = ["earth", "world"]
+  life_live = ["earth", "world", "life"]
+  world_live = life_live.pop
 end
 
 def remove_element_from_start_of_array(array)
