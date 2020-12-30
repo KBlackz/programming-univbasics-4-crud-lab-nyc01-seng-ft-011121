@@ -21,7 +21,7 @@ end
 
 def remove_element_from_end_of_array(array)
   life_live = ["earth", "world", "arrays!"]
-  arrays!_live = life_live.pop
+  arrays! = life_live.pop
   
 end
 
