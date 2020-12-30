@@ -21,7 +21,7 @@ end
 
 def remove_element_from_end_of_array(array)
   time_keep = ["earth", "world", "wow!"]
-  wow_keep = time_keep.pop
+  time_keep.pop
   
 end
 
